@@ -3,7 +3,6 @@
 **About Me：** Product Designer, Indie Maker, cyberpunk lover. I design and code
 
 How to reach me: [Twitter](https://twitter.com/JianiLii) • [Dribbble](https://dribbble.com/getjennyli)
-
 - I'm reading：The Stories of IBIS
 - I'm learning：SwiftUI
 
@@ -12,8 +11,7 @@ How to reach me: [Twitter](https://twitter.com/JianiLii) • [Dribbble](https://
 [Book](https://www.notion.so/34acdc10f9a24b83868ffe143b6197b5) - A list of my current and past readings
 
 
-# Notes
-
+### Notes
 [Collection](https://www.notion.so/Collections-704b39ca0acb4574b4c17ec3f7c83311) - An inspiration list
 
 [Links](https://www.notion.so/2fb21584e258491fac9be2f87b029625) - Favorite products
