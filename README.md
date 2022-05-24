@@ -12,3 +12,8 @@ How to reach me: [Twitter](https://twitter.com/JianiLii) • [Dribbble](https://
 - [Collection](https://www.notion.so/Collections-704b39ca0acb4574b4c17ec3f7c83311) - An inspiration list
 - [Links](https://www.notion.so/2fb21584e258491fac9be2f87b029625) - Favorite products
 - [Tools](https://www.notion.so/Tools-048f4987f86b40a0ab3354499b35187c) - Tools I use
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
