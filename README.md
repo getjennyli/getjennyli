@@ -16,8 +16,8 @@ How to reach me: [Twitter](https://twitter.com/JianiLii) • [Dribbble](https://
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  4,571 Karma Points           
-🌸  Completed 1 tasks today           
+🏆  4,579 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 220 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
